@@ -15,6 +15,7 @@ Next we need to get a "if then else" block from the "logic" tab and place it und
 
 
 
+
 ## all code
 let distance = 0
 basic.forever(function () {
